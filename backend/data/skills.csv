@@ -1,0 +1,7 @@
+skill_id,name,tier_level
+SKL-BILLING,Billing & Invoicing,1
+SKL-AUTH,Authentication & SSO,2
+SKL-TECH-CORE,Core Platform Engineering,2
+SKL-SECURITY,Security & Forensics,3
+SKL-RETENTION,Customer Retention,1
+SKL-COMPLIANCE,GDPR & Privacy Compliance,3

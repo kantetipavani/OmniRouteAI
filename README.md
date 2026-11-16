@@ -1,6 +1,6 @@
 # OmniRoute: Intelligent Omnichannel Case Routing & SLA Engine
 
-**Hackathon Problem Statement:**
+**Statement:**
 > *Route email/chat/phone cases by intent, urgency, language, skill and agent capacity while tracking SLA.*
 
 OmniRoute is a production-grade fullstack application designed to solve complex omnichannel customer support routing challenges. It balances skills, shift times, and agent concurrency limits, tracks SLA deadlines across business and 24x7 calendars, preserves an immutable audit trail of state changes, and exposes an anomaly detector for negative edge cases.

@@ -1,0 +1,29 @@
+{
+  "scale": "starter",
+  "seed": 20261022,
+  "generated_at": "2026-11-16T08:50:39.140100+00:00",
+  "counts": {
+    "customers": 400,
+    "channels": 3,
+    "languages": 6,
+    "skills": 6,
+    "queues": 7,
+    "intents": 7,
+    "priority_rules": 9,
+    "agents": 25,
+    "tickets": 1000,
+    "messages": 2000,
+    "assignment_events": 1030,
+    "sla_events": 1000,
+    "resolutions": 1000,
+    "ground_truth_anomalies": 60
+  },
+  "anomalies_by_type": {
+    "CAPACITY_EXCEEDED": 15,
+    "CALENDAR_IGNORED": 15,
+    "HISTORY_LOST": 10,
+    "TRANSFER_LOOP": 10,
+    "SAFETY_OVERRIDE_VIOLATION": 10
+  },
+  "dataset_sha256": "e5467f979effe8d34e1ea82c619e8ba34098838eebffd6d4453aaa1f29a08411"
+}

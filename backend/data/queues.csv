@@ -1,0 +1,8 @@
+queue_id,name,target_skill_id,channel_id,max_wait_time_minutes,escalation_queue_id
+QUE-BILLING,Billing Queue,SKL-BILLING,CH-EMAIL,60,QUE-TIER2
+QUE-TECH,Technical Support Queue,SKL-TECH-CORE,CH-CHAT,15,QUE-TIER2
+QUE-SECURITY,Security Incidents Queue,SKL-SECURITY,CH-PHONE,2,QUE-EXEC
+QUE-RETENTION,Retention & Churn Queue,SKL-RETENTION,CH-CHAT,10,QUE-TIER2
+QUE-COMPLIANCE,Privacy & Legal Queue,SKL-COMPLIANCE,CH-EMAIL,120,QUE-EXEC
+QUE-TIER2,Tier 2 Engineering Queue,SKL-TECH-CORE,CH-CHAT,30,QUE-EXEC
+QUE-EXEC,Executive Escalation Queue,SKL-SECURITY,CH-PHONE,5,

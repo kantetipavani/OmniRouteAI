@@ -1,0 +1,4 @@
+channel_id,name,type,concurrency_weight,is_realtime,operating_calendar,default_frt_minutes,default_ttr_minutes
+CH-EMAIL,Email Support,EMAIL,0.2,False,BUSINESS_HOURS,120,1440
+CH-CHAT,Live Chat,CHAT,0.33,True,24X7,5,45
+CH-PHONE,Phone Hotline,PHONE,1.0,True,24X7,1,20
